@@ -24,13 +24,13 @@ pip install aha
 2. Make sure the script has execute permissions:
 
 ```bash
-chmod +x search.sh
+chmod +x ddst.sh
 ```
 
 3. Run the script:
 
 ```bash
-./search.sh
+./ddst.sh
 ```
 
 4. You will be greeted with a welcome message and prompted to select a file or folder to search.
